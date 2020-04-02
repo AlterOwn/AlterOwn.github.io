@@ -5,7 +5,6 @@ title: >-
   Entrepreneurial Spirit
 published: true
 ---
-## Let Go or Be Dragged: 5 Simple Ways you Can Tell if You Have an Entrepreneurial Spirit
 
 
 Sometimes, life just isn’t as easy as taking the path that is clearly set out before you. Structure and rigidity can be confusing. The lights that lead the way can be blinding. If this sounds like you, then perhaps, like few others, you have an entrepreneurial spirit. 
