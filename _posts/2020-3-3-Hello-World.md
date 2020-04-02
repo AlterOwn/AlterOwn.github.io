@@ -6,7 +6,7 @@ title: >-
 published: true
 ---
 
-![CFD9F32D-E651-4058-BD7C-53A18C44D44B.JPG]({{site.baseurl}}/_posts/CFD9F32D-E651-4058-BD7C-53A18C44D44B.JPG)
+![7781288370_0881a75aec_w.jpg]({{site.baseurl}}/_posts/7781288370_0881a75aec_w.jpg)
 
 
 Sometimes, life just isn’t as easy as taking the path that is clearly set out before you. Structure and rigidity can be confusing. The lights that lead the way can be blinding. If this sounds like you, then perhaps, like few others, you have an entrepreneurial spirit. 
