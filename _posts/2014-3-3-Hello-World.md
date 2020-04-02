@@ -7,8 +7,6 @@ published: true
 ---
 ## Let Go or Be Dragged: 5 Simple Ways you Can Tell if You Have an Entrepreneurial Spirit
 
-![C2E67793-D260-43E3-8733-D8647782BB81.JPG]({{site.baseurl}}/_posts/C2E67793-D260-43E3-8733-D8647782BB81.JPG)
-
 
 Sometimes, life just isn’t as easy as taking the path that is clearly set out before you. Structure and rigidity can be confusing. The lights that lead the way can be blinding. If this sounds like you, then perhaps, like few others, you have an entrepreneurial spirit. 
 
@@ -37,6 +35,3 @@ Reid Hoffman, founder of LinkedIn, famously compares founding a high-growth star
 ### **5. You Think and Act in Alternative Ways**
 
 An extraordinary number of the worlds greatest and most influential founders dropped out of university, take Bill Gates, Mark Zuckerberg, and Larry Ellison, to name but a few. This isn’t to say: To have an entrepreneurial spirit, you must have dropped out of school. It means that doing and thinking unconventionally, is what creates great ideas. Whether you love different music, art, or design compared to the mainstream. Or you use technology in novel ways. Thinking and acting differently to the crowd, is a certain sign that you have an entrepreneurial spirit.
-
-
-
