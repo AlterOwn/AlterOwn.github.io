@@ -5,6 +5,7 @@ title: >-
   Entrepreneurial Spirit
 published: true
 ---
+![C2E67793-D260-43E3-8733-D8647782BB81 - Edited (1).jpg]({{site.baseurl}}/_posts/C2E67793-D260-43E3-8733-D8647782BB81 - Edited (1).jpg)
 
 
 Sometimes, life just isn’t as easy as taking the path that is clearly set out before you. Structure and rigidity can be confusing. The lights that lead the way can be blinding. If this sounds like you, then perhaps, like few others, you have an entrepreneurial spirit. 
