@@ -6,7 +6,6 @@ title: >-
 published: true
 ---
 
-![]({{site.baseurl}}/_posts/Lake%20Jump.jpg)
 
 Sometimes, life just isn’t as easy as taking the path that is clearly set out before you. Structure and rigidity can be confusing. The lights that lead the way can be blinding. If this sounds like you, then perhaps, like few others, you have an entrepreneurial spirit. 
 
