@@ -10,7 +10,7 @@ published: true
 
 Sometimes, life just isn’t as easy as taking the path that is clearly set out before you. Structure and rigidity can be confusing. The lights that lead the way can be blinding. If this sounds like you, then perhaps, like few others, you have an entrepreneurial spirit. 
 
-But how do you know if you really do have the spirit? Unless your name is Steve Jobs Junior, you probably aren’t going to just drop everything and form a startup out of your garage on a whim. It will take a huge amount of grit and determination to see it through. 
+But how do you know if you really do have the spirit? Unless your name is [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) Junior, you probably aren’t going to just drop everything and form a startup out of your garage on a whim. It will take a huge amount of grit and determination to see it through. 
 
 There are several defining ways you can identify if you have this spirit. Here are: “5 Simple Ways you Can Tell if You Have an Entrepreneurial Spirit”.
 
